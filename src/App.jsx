@@ -115,6 +115,7 @@ function App() {
           className="profile-img" 
         />
         <div className="profile-text">
+          <h2 className="nickname">HERDEM</h2>
           <h1 className="name">Hidayet Erdem</h1>
           <p className="title">Developer</p>
         </div>
