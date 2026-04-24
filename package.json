@@ -2,7 +2,7 @@
   "name": "linktree",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://the-herdem.github.io/linktree",
+  "homepage": "https://goto.herdem.net.tr",
   "type": "module",
   "scripts": {
     "dev": "vite",
