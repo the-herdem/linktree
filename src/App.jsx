@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { FiGlobe, FiMail, FiLinkedin, FiGithub } from 'react-icons/fi';
+import { SiSignal } from 'react-icons/si';
 import profileImg from './assets/profile.png';
 
 const ROWS = [
@@ -99,6 +100,11 @@ function App() {
       name: 'GitHub Profile', 
       url: 'https://github.com/the-herdem',
       icon: <FiGithub className="link-icon" />
+    },
+    { 
+      name: 'Signal: @herdem.42', 
+      url: 'https://signal.me/#eu/herdem.42',
+      icon: <SiSignal className="link-icon" />
     }
   ];
 
