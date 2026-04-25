@@ -102,7 +102,7 @@ function App() {
       icon: <FiGithub className="link-icon" />
     },
     { 
-      name: 'Signal: @herdem.42', 
+      name: 'Message on Signal', 
       url: 'https://signal.me/#eu/herdem.42',
       icon: <SiSignal className="link-icon" />
     }
